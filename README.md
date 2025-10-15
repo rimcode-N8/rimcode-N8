@@ -6,4 +6,44 @@
 <h3> My Expertise </h3>
 <img src='https://skillicons.dev/icons?i=js,py,java,nodejs,html,css,mysql,flask,react,git,github'alt=Expertise/>
 <h3> My Socials:</h3>
-<img src="https://camo.githubusercontent.com/8f41682a178e57a174d0c6042e9cdb842c6329b24c34b2bf4206c25e933073a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram" data-canonical-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;">
+ <div class="grid md:grid-cols-2 lg:grid-cols-5 gap-6 max-w-4xl mx-auto">
+                <!-- WhatsApp -->
+                <a href="https://wa.me/98933****636" target="_blank" 
+                   class="card-hover bg-green-500 hover:bg-green-600 text-white p-6 rounded-xl text-center block transition-all duration-300">
+                    <div class="text-3xl mb-3">📱</div>
+                    <h4 class="font-semibold mb-2">واتساپ</h4>
+                    <p class="text-sm opacity-90">پیام فوری</p>
+                </a>
+                
+  <a href="https://t.me/+98933****636" target="_blank"
+                   class="card-hover bg-blue-500 hover:bg-blue-600 text-white p-6 rounded-xl text-center block transition-all duration-300">
+                    <div class="text-3xl mb-3">✈️</div>
+                    <h4 class="font-semibold mb-2">تلگرام</h4>
+                    <p class="text-sm opacity-90">چت آنلاین</p>
+               </a>
+                
+           
+   <a href="https://eitaa.com/+98933****636" target="_blank"
+                   class="card-hover bg-purple-500 hover:bg-purple-600 text-white p-6 rounded-xl text-center block transition-all duration-300">
+                    <div class="text-3xl mb-3">💬</div>
+                    <h4 class="font-semibold mb-2">ایتا</h4>
+                    <p class="text-sm opacity-90">پیام رسان</p>
+                </a>
+                
+               
+   <a href="sms:0933****636" 
+                   class="card-hover bg-orange-500 hover:bg-orange-600 text-white p-6 rounded-xl text-center block transition-all duration-300">
+                    <div class="text-3xl mb-3">💌</div>
+                    <h4 class="font-semibold mb-2">پیامک</h4>
+                    <p class="text-sm opacity-90">SMS</p>
+                </a>
+                
+               
+   <a href="tel:0933****636" 
+                   class="card-hover bg-red-500 hover:bg-red-600 text-white p-6 rounded-xl text-center block transition-all duration-300">
+                    <div class="text-3xl mb-3">📞</div>
+                    <h4 class="font-semibold mb-2">تماس</h4>
+                    <p class="text-sm opacity-90">مستقیم</p>
+                </a>
+            </div>
+            
