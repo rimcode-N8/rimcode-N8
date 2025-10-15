@@ -1,3 +1,4 @@
+<img src='./my logo.jpg'/>
 ## Hi there 👋
 
 <!--
