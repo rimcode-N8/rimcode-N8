@@ -1,4 +1,4 @@
-<img src='./my logo.jpg'/>
+<img src='./my logo.jpg' width='250px'/>
 ## Hi there 👋
 
 <!--
