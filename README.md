@@ -1,6 +1,6 @@
 <div align='center'>
 <img src='./my logo.jpg' width='250px'alt="rimcod"/>
-<p><b> <mark>rimcod developer</mark></b> </p>
+<h2><b> <mark>rimcod developer</mark></b> </h2>
 
 
 <h3> My Expertise </h3>
