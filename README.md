@@ -2,16 +2,27 @@
 <img src='./my logo.jpg' width='250px'alt="rimcod"/>
 <h2><b> <mark>rimcod developer</mark></b> </h2>
 
+🌟 Passionate Full-Stack Developer & Data Scientist 🌟
 
 <h3> My Expertise </h3>
 <img src='https://skillicons.dev/icons?i=js,py,java,nodejs,html,css,mysql,flask,react,git,github'alt=Expertise/>
-<h3> My Socials</h3>
 
-<img src="https://camo.githubusercontent.com/8f41682a178e57a174d0c6042e9cdb842c6329b24c34b2bf4206c25e933073a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram" style="max-width: 100%;">
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@88amir23) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@88amir23) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Abolfazlnaeimi34@gmail.com) 
 
-<img src="https://camo.githubusercontent.com/94b50d6a71e67a79d85b051d8af86ad7cc541a7304e6db4825430830e9a43383/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white" style="max-width: 100%;">
 
-<img src="https://camo.githubusercontent.com/a67feba4f5643de3002051e6c0957687aa81bab72741956e80905f3589795ddb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d2532334646303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d596f7554756265266c6f676f436f6c6f723d7768697465" alt="YouTube" data-canonical-src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&amp;logo=YouTube&amp;logoColor=white" style="max-width: 100%;">
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rimcode-N8&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rimcode-N8&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rimcode-N8&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rimcode-N8&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=rimcode-N8&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
